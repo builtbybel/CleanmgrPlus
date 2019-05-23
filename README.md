@@ -19,7 +19,7 @@ Cleanmgr+ comes with better and and modern UI when compared to the current Disk 
 
 There are many Disk Cleaner utilities out there, but the goal with this one was to create a tool that uses Windows own resources ensuring that only system-compliant actions are performed.
 
-###### More Information about Cleanmgr+ can be found on the [official website](https://www.getclone.app/ms-apps/cleanmgrplus)
+#### More Information about Cleanmgr+ can be found on the [official website](https://www.getclone.app/ms-apps/cleanmgrplus)
 
 ## Download 
 

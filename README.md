@@ -2,8 +2,6 @@
 
 ![Cleanmgr+](https://github.com/Mirinsoft/CleanmgrPlus/raw/master/cleanmgr%2B.png)
 
-A Improved Replacement for Microsoft Disk Cleanup
-
 Microsoft will be soon removing the Disk Clean-up Tool (Cleanmgr.exe) from Windows 10 PCs. 
 It is a Windows system tool which lets you delete the unwanted files cluttered in your PC thereby freeing some space on your disk drive
 Disk Cleanup isn’t going away immediately but is on its way out the door. Microsoft says it will keep the utility around for compatibility reasons.

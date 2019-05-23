@@ -13,7 +13,7 @@ When Microsoft says Disk Cleanup is “deprecated” starting with the October 2
 
 The downside of Storage Sense is the massive UI. This size is why I decided to make Cleanmgr+ to circumvent that massive UI of Storage Sense but still provide a utility that is true to the original.
 
-Cleanmgr+ comes with better and and modern UI when compared to the current Disk Cleanup and with an additional feature set (hence the +), such as the feeding with Custom scripts, i.e., to clean a Browser cache, etc.
+Cleanmgr+ comes with better and modern UI when compared to the current Disk Cleanup and with an additional feature set (hence the +), such as the feeding with Custom scripts, i.e., to clean a Browser cache, etc.
 
 ![Cleanmgr+](https://github.com/Mirinsoft/CleanmgrPlus/raw/master/cleanmgr%2B_screen.png)
 

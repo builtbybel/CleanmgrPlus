@@ -19,16 +19,20 @@ Cleanmgr+ comes with better and and modern UI when compared to the current Disk 
 
 There are many Disk Cleaner utilities out there, but the goal with this one was to create a tool that uses Windows own resources ensuring that only system-compliant actions are performed.
 
-More Information about Cleanmgr+ can be found on the official website
-https://www.getclone.app/ms-apps/cleanmgrplus
+###### More Information about Cleanmgr+ can be found on the [official website](https://www.getclone.app/ms-apps/cleanmgrplus)
 
 ## Download 
 
-###### Cleanmgr+
+#### Cleanmgr+
 https://www.getclone.app/cleanmgrplus
 
-###### Community Scripts
+#### Community Scripts
 https://www.getclone.app/cleanmgrplus-sc
 
-###### German Data set
+#### German Data set
 https://www.getclone.app/download/category/12-cleanmgr-localizations-data-sets
+
+## Suggesting features / providing feedback
+Please use the [official community](https://www.getclone.app/community) or the [discussion thread on Wilder's Security Forums](https://www.wilderssecurity.com/threads/cleanmgr-improved-replacement-for-microsoft-disk-cleanup.416181/)
+
+You can also reach out to me on [Twitter](https://twitter.com/CleanmgrPlus)

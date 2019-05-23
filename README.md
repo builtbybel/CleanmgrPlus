@@ -17,6 +17,8 @@ The downside of Storage Sense is the massive UI. This size is why I decided to m
 
 Cleanmgr+ comes with better and and modern UI when compared to the current Disk Cleanup and with an additional feature set (hence the +), such as the feeding with Custom scripts, i.e., to clean a Browser cache, etc.
 
+![Cleanmgr+](https://github.com//Mirinsoft/CleanmgrPlus/master/cleanmgr%2B_screen.png)
+
 There are many Disk Cleaner utilities out there, but the goal with this one was to create a tool that uses Windows own resources ensuring that only system-compliant actions are performed.
 
 #### More Information about Cleanmgr+ can be found on the [official website](https://www.getclone.app/ms-apps/cleanmgrplus)

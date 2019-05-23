@@ -1,4 +1,7 @@
 # CleanmgrPlus
+
+![Cleanmgr+](https://github.com/Mirinsoft/CleanmgrPlus/raw/master/cleanmgr%2B.png)
+
 A Improved Replacement for Microsoft Disk Cleanup
 
 Microsoft will be soon removing the Disk Clean-up Tool (Cleanmgr.exe) from Windows 10 PCs. 
@@ -15,5 +18,4 @@ The downside of Storage Sense is the massive UI. This size is why I decided to m
 Cleanmgr+ comes with better and and modern UI when compared to the current Disk Cleanup and with an additional feature set (hence the +), such as the feeding with Custom scripts, i.e., to clean a Browser cache, etc.
 
 There are many Disk Cleaner utilities out there, but the goal with this one was to create a tool that uses Windows own resources ensuring that only system-compliant actions are performed.
-
 

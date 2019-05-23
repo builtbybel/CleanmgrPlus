@@ -1,0 +1,80 @@
+
+==========================================================================================================
+		Cleanmgr+ - Scripting engine v0.6.3 (last updated May/02/2019)
+==========================================================================================================
+
+
+Supported sections
+----------------------
+
+
+[Info]
+		This section provides script Information only
+
+----------------------------------------------------------------------------------------------------------
+
+[Files] 
+		All commands goes to the [Files] section
+
+----------------------------------------------------------------------------------------------------------
+[Variables] 
+		Custom Variables can be defined in the [Variables] section. The defined variables belongs to the [Files] section
+		MyVar=%UserProfile%\Documents
+
+
+Supported commands
+----------------------
+
+
+Delete files: 
+		File1=DeleteFile|%AppData%\Example App\tmp.txt	 
+		Supports wildacards "*.tmp" and file types with same filename "tmp.*
+		
+		Supported parameter: 
+		|RECURSE for recursive search
+----------------------------------------------------------------------------------------------------------
+Delete directories: 
+		File1=DeleteDir|%AppData%\Example App\Temp 
+----------------------------------------------------------------------------------------------------------
+Delete registry keys: 
+		File1=DeleteRegKey|HKEY_CURRENT_USER\Software\ExampleApp
+		Supports short root RegKey format, i.e. HKCU\Software\ExampleApp
+----------------------------------------------------------------------------------------------------------
+Run files: 
+		File1=Start|%AppData%\Example App\Configuration\My Software.exe
+----------------------------------------------------------------------------------------------------------
+Execute command-line: 
+		File1=Exec|%WinDir%\System32\ie4uinit.exe -show
+		E.g. this will refresh the Windows Icon Cache using command-line
+
+		Supported parameter: 
+		|SHOWCLI for showing a Windows command-line interface during execution
+----------------------------------------------------------------------------------------------------------
+Kill process:
+		File1=TaskKill|firefox.exe|WARNING
+		Used to terminate tasks by process id (PID) or image name
+
+		Supported parameter: 
+		|WARNING for showing optional hint
+----------------------------------------------------------------------------------------------------------
+Detect: 
+		File1=Detect|%AppData%\Example App\Configuration\My Software.exe
+		Optional you can use the Detect command, which is been preferred if added, and check only the File, Folder and Registry key for existence 
+----------------------------------------------------------------------------------------------------------
+Calc: 
+		File1=Calc|%AppData%\Example App\Temp
+		Optional you can use the Calc command in Preview Mode ONLY, to calculate the directory size
+		(*) Asterisk Symbol after Script Title initiates a recursive directory file and size calculation
+----------------------------------------------------------------------------------------------------------
+Echo: 
+		File1=Echo|Dir $FirefoxProfileCache$\cache2\entries /s /b /o:gn
+		Optional you can use the Echo command to run a Preview in Windows command prompt
+----------------------------------------------------------------------------------------------------------
+
+Additional Scripts can be found here 
+https://www.getclone.app/cleanmgrplus-sc
+
+
+https://www.mirinsoft.com
+https://getclone.app
+

@@ -1,4 +1,4 @@
-# CleanmgrPlus
+# Cleanmgr+
 
 ![Cleanmgr+](https://github.com/Mirinsoft/CleanmgrPlus/raw/master/cleanmgr%2B.png)
 

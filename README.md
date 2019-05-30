@@ -20,6 +20,8 @@ There are many Disk Cleaner utilities out there, but the goal with this one was 
 
 #### More Information about Cleanmgr+ can be found on the [official website](https://www.getclone.app/ms-apps/cleanmgrplus)
 
+#### Cleanmgr+ is closed source, but you can collaborate and contribute i.e., custom script files, localizations, report issues or maintain a documentation.
+
 ## Download 
 
 #### Cleanmgr+

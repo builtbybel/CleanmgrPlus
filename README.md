@@ -2,6 +2,8 @@
 
 [![Downloads](https://img.shields.io/github/downloads/Mirinsoft/CleanmgrPlus/total.svg?style=flat-square)](https://https://www.getclone.app/download/cleanmgrplus)
 [![PayPal Donate](https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square)](https://www.getclone.app/donate/cleanmgrplus)
+![Twitter](https://img.shields.io/twitter/follow/cleanmgrplus.svg?label=Follow)
+
 
 &copy; [Copyright 2019](LICENSE.md) Mirinsoft
 

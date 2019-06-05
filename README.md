@@ -1,5 +1,12 @@
 # Cleanmgr+
 
+[![Downloads](https://img.shields.io/github/downloads/Mirinsoft/CleanmgrPlus/total.svg?style=flat-square)](https://https://www.getclone.app/download/cleanmgrplus)
+[![PayPal Donate](https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square)](https://www.getclone.app/donate/cleanmgrplus)
+
+&copy; [Copyright 2019](LICENSE.md) Mirinsoft
+
+:link: <https://www.getclone.app/cleanmgrplus>
+
 ![Cleanmgr+](https://github.com/Mirinsoft/CleanmgrPlus/raw/master/cleanmgr%2B.png)
 
 Microsoft will be soon removing the Disk Clean-up Tool (Cleanmgr.exe) from Windows 10 PCs. 
@@ -14,7 +21,7 @@ The downside of Storage Sense is the massive UI. This size is why I decided to m
 
 Cleanmgr+ comes with better and modern UI when compared to the current Disk Cleanup and with an additional feature set (hence the +), such as the feeding with Custom scripts, i.e., to clean a Browser cache, etc.
 
-![Cleanmgr+](https://github.com/Mirinsoft/CleanmgrPlus/raw/master/cleanmgr%2B_screen.png)
+<a href="https://www.getclone.app/images/jdownloads/screenshots/cleanmgr+_screen.png"><img src="https://www.getclone.app/images/jdownloads/screenshots/cleanmgr+_screen.png" align="right" style="max-width: 350px"></a>
 
 There are many Disk Cleaner utilities out there, but the goal with this one was to create a tool that uses Windows own resources ensuring that only system-compliant actions are performed.
 

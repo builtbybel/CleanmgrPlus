@@ -5,7 +5,7 @@
 
 &copy; [Copyright 2019](LICENSE.md) Mirinsoft
 
-:link: <https://www.getclone.app/cleanmgrplus>
+:link: <https://www.getclone.app/ms-apps/cleanmgrplus>
 
 ![Cleanmgr+](https://github.com/Mirinsoft/CleanmgrPlus/raw/master/cleanmgr%2B.png)
 

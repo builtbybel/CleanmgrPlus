@@ -4,8 +4,7 @@
 [![PayPal Donate](https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square)](https://www.getclone.app/donate/cleanmgrplus)
 [![Twitter](https://img.shields.io/twitter/follow/cleanmgrplus.svg?label=Follow)](https://twitter.com/cleanmgrplus)
 
-
-&copy; [Copyright 2019](LICENSE.md) Mirinsoft
+&copy; [Copyright 2019](LICENSE.txt) Mirinsoft
 
 :link: <https://www.getclone.app/ms-apps/cleanmgrplus>
 

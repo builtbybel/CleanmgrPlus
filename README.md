@@ -8,7 +8,7 @@
 
 <p align="center">
  
-<a href=" https://github.com/Mirinsoft/CleanmgrPlus/releases/latest" target="_blank">
+<a href="https://github.com/Mirinsoft/CleanmgrPlus/releases/latest" target="_blank">
  <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/cleanmgrplus.svg" />
 </a>
 <a href="https://github.com/Mirinsoft/CleanmgrPlus/releases" target="_blank">
@@ -20,8 +20,8 @@
 <a href="https://twitter.com/cleanmgrplus" target="_blank">
  <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/cleanmgrplus.svg?label=Follow" />
 </a>
- 
 </p>
+
 
 <h3 align="center">&copy Copyright 2019 <a href="https://www.mirinsoft.com" target="_blank">Mirinsoft</a></h1>
 

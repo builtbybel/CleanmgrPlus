@@ -8,7 +8,7 @@ Warning=If you think you might want to downgrade from Windows 10 back to the pre
 [Files]
 File1=Detect|%SystemDrive%\windows.old
 File2=Calc|%SystemDrive%\windows.old
-Task1=Exec|takeown /F %SystemDrive%\windows.old\* /R /A|SHOWCLI
+Task1=Exec|takeown /F %SystemDrive%\Windows.old\* /R /A /D Y|SHOWCLI
 Task2=Exec|cacls %SystemDrive%\Windows.old\*.* /C /T /grant administrators:F|SHOWCLI
 Task3=Exec|RD /S /Q %SystemDrive%\windows.old\|SHOWCLI
 

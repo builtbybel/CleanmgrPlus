@@ -1,6 +1,12 @@
 <h1 align="center"> Cleanmgr+ </h1>
 
 <p align="center">
+<a href="https://github.com/Mirinsoft/CleanmgrPlus" target="_blank">
+<img align="center" alt="Cleanmgr+" src="https://github.com/Mirinsoft/CleanmgrPlus/raw/master/cleanmgr%2B.png" />
+</a>
+</p>
+
+<p align="center">
  
 <a href=" https://github.com/Mirinsoft/CleanmgrPlus/releases/latest" target="_blank">
  <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/cleanmgrplus.svg" />
@@ -18,7 +24,6 @@
 </p>
 
 <h3 align="center">&copy Copyright 2019 <a href="https://www.mirinsoft.com" target="_blank">Mirinsoft</a></h1>
-
 
 Microsoft will be soon removing the Disk Clean-up Tool (Cleanmgr.exe) from Windows 10 PCs. 
 It is a Windows system tool which lets you delete the unwanted files cluttered in your PC thereby freeing some space on your disk drive. Disk Cleanup isn’t going away immediately but is on its way out the door. Microsoft says it will keep the utility around for compatibility reasons.

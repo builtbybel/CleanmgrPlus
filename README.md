@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/Mirinsoft/CleanmgrPlus" target="_blank">
-<img align="center" alt="Cleanmgr+" src="https://github.com/Mirinsoft/CleanmgrPlus/raw/master/cleanmgr%2B.png" />
+<img align="center" alt="Cleanmgr+" src="https://github.com/Mirinsoft/CleanmgrPlus/raw/master/cleanmgr%2B.png" width="150" height="150" />
 </a>
 </p>
 

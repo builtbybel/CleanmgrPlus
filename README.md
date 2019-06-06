@@ -1,16 +1,24 @@
-# Cleanmgr+
+<h1 align="center"> Cleanmgr+ </h1>
 
-[![Latest release](https://img.shields.io/github/release/mirinsoft/cleanmgrplus.svg )](https://github.com/Mirinsoft/CleanmgrPlus/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Mirinsoft/CleanmgrPlus/total.svg?style=flat-square)](https://www.getclone.app/download/cleanmgrplus)
-[![PayPal Donate](https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square)](https://www.getclone.app/donate/cleanmgrplus)
-[![Twitter](https://img.shields.io/twitter/follow/cleanmgrplus.svg?label=Follow)](https://twitter.com/cleanmgrplus)
-
+<p align="center">
  
-&copy; [Copyright 2019](LICENSE.txt) Mirinsoft
+<a href=" https://github.com/Mirinsoft/CleanmgrPlus/releases/latest" target="_blank">
+ <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/cleanmgrplus.svg" />
+</a>
+<a href="https://github.com/Mirinsoft/CleanmgrPlus/releases" target="_blank">
+ <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/Mirinsoft/CleanmgrPlus/total.svg?style=flat-square" />
+</a>
+<a href="https://www.getclone.app/donate/cleanmgrplus" target="_blank">
+ <img alt="Donate" src="https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square" />
+</a>
+<a href="https://twitter.com/cleanmgrplus" target="_blank">
+ <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/cleanmgrplus.svg?label=Follow" />
+</a>
+ 
+</p>
 
-:link: <https://www.getclone.app/ms-apps/cleanmgrplus>
+<h3 align="center">&copy Copyright 2019 <a href="https://www.mirinsoft.com" target="_blank">Mirinsoft</a></h1>
 
-![Cleanmgr+](https://github.com/Mirinsoft/CleanmgrPlus/raw/master/cleanmgr%2B.png)
 
 Microsoft will be soon removing the Disk Clean-up Tool (Cleanmgr.exe) from Windows 10 PCs. 
 It is a Windows system tool which lets you delete the unwanted files cluttered in your PC thereby freeing some space on your disk drive. Disk Cleanup isn’t going away immediately but is on its way out the door. Microsoft says it will keep the utility around for compatibility reasons.

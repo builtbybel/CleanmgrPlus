@@ -1,6 +1,6 @@
 
 ==========================================================================================================
-		Cleanmgr+ - Scripting engine v0.6.3 (last updated May/02/2019)
+		Cleanmgr+ - Scripting engine v0.6.4 (last updated June/04/2019)
 ==========================================================================================================
 
 
@@ -28,7 +28,7 @@ Supported commands
 
 Delete files: 
 		File1=DeleteFile|%AppData%\Example App\tmp.txt	 
-		Supports wildacards "*.tmp" and file types with same filename "tmp.*
+		Supports wildcards "*.tmp" and file types with same filename "tmp.*
 		
 		Supported parameter: 
 		|RECURSE for recursive search

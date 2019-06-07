@@ -17,6 +17,10 @@
 <a href="https://www.getclone.app/donate/cleanmgrplus" target="_blank">
  <img alt="Donate" src="https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square" />
 </a>
+<a href="https://twitter.com/cleanmgrplus" target="_blank">
+ <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/cleanmgrplus.svg?label=Follow" />
+</a>
+
 </p>
 
 
@@ -56,6 +60,4 @@ https://www.getclone.app/download/category/12-cleanmgr-localizations-data-sets
 ## Suggesting features / providing feedback
 Please use the [official community](https://www.getclone.app/community) or the [discussion thread on Wilder's Security Forums](https://www.wilderssecurity.com/threads/cleanmgr-improved-replacement-for-microsoft-disk-cleanup.416181/)
 
-You can also reach out to me on <a href="https://twitter.com/cleanmgrplus" target="_blank">
- <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/cleanmgrplus.svg?label=Follow" />
-</a>
+You can also reach out to me on [Twitter](https://twitter.com/CleanmgrPlus)

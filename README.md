@@ -14,7 +14,7 @@
 <a href="https://github.com/Mirinsoft/CleanmgrPlus/releases" target="_blank">
  <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/Mirinsoft/CleanmgrPlus/total.svg?style=flat-square" />
 </a>
-<a href="https://www.getclone.app/donate/cleanmgrplus" target="_blank">
+<a href="https://www.mirinsoft.com/donate/cleanmgrplus" target="_blank">
  <img alt="Donate" src="https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square" />
 </a>
 <a href="https://twitter.com/cleanmgrplus" target="_blank">
@@ -35,27 +35,27 @@ The downside of Storage Sense is the massive UI. This size is why I decided to m
 
 Cleanmgr+ comes with better and modern UI when compared to the current Disk Cleanup and with an additional feature set (hence the +), such as the feeding with Custom scripts, i.e., to clean a Browser cache, etc.
 
-<a href="https://www.getclone.app/images/jdownloads/screenshots/cleanmgr+_screen.png"><img src="https://www.getclone.app/images/jdownloads/screenshots/cleanmgr+_screen.png" align="right" style="max-width: 350px"></a>
+<a href="https://www.mirinsoft.com/images/jdownloads/screenshots/cleanmgr+_screen.png"><img src="https://www.mirinsoft.com/images/jdownloads/screenshots/cleanmgr+_screen.png" align="right" style="max-width: 350px"></a>
 
 There are many Disk Cleaner utilities out there, but the goal with this one was to create a tool that uses Windows own resources ensuring that only system-compliant actions are performed.
 
-#### More Information about Cleanmgr+ can be found on the [official website](https://www.getclone.app/ms-apps/cleanmgrplus)
+#### More Information about Cleanmgr+ can be found on the [official website](https://www.mirinsoft.com/ms-apps/cleanmgrplus)
 
 #### Cleanmgr+ is closed source, but you can collaborate and contribute i.e., custom script files, localizations, report issues or maintain a documentation.
 
 ## Download 
 
 #### Cleanmgr+
-https://www.getclone.app/cleanmgrplus
+https://www.mirinsoft.com/cleanmgrplus
 
 #### Community Scripts
-https://www.getclone.app/cleanmgrplus-sc
+https://www.mirinsoft.com/cleanmgrplus-sc
 
 #### German Data set
-https://www.getclone.app/download/category/12-cleanmgr-localizations-data-sets
+https://www.mirinsoft.com/download/category/12-cleanmgr-localizations-data-sets
 
 ## Suggesting features / providing feedback
-Please use the [official community](https://www.getclone.app/community) or the [discussion thread on Wilder's Security Forums](https://www.wilderssecurity.com/threads/cleanmgr-improved-replacement-for-microsoft-disk-cleanup.416181/)
+Please use the [official community](https://www.mirinsoft.com/community) or the [discussion thread on Wilder's Security Forums](https://www.wilderssecurity.com/threads/cleanmgr-improved-replacement-for-microsoft-disk-cleanup.416181/)
 
 You can also reach out to me on [Twitter](https://twitter.com/CleanmgrPlus)
 

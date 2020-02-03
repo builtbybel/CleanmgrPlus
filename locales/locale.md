@@ -5,9 +5,9 @@ Unzip the language set and copy it directly into the Cleanmgr+ bin > packages di
 Unzip the data set and copy it directly into the Cleanmgr+ bin directory (replace the existing Windata.ini)
 
 # Available localization packages for GUI
-### German/Deutsche GUI > [Download](https://github.com/mirinsoft/CloneApp/blob/master/localizations/locale_de.zip)
+### German/Deutsche GUI > [Download](https://github.com/mirinsoft/CleanmgrPlus/blob/master/locales/locale_de.zip)
 
 # Available localization for Data sets
-### German/Deutsche GUI > [Download](https://github.com/mirinsoft/CloneApp/blob/master/localizations/locale_de.zip)
+### German/Deutsche GUI > [Download](https://github.com/mirinsoft/CleanmgrPlus/blob/master/locales/windata_de.zip)
 
-### Francais > [Download](https://github.com/mirinsoft/CloneApp/blob/master/localizations/locale_fr.zip)
+### Francais > [Download](https://github.com/mirinsoft/CleanmgrPlus/blob/master/locales/windata_fr.zip)

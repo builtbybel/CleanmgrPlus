@@ -47,7 +47,7 @@ There are many Disk Cleaner utilities out there, but the goal with this one was 
 * https://www.mirinsoft.com/cleanmgrplus
 
 ## Other Resources
-#### [Scripts](https://github.com/mirinsoft/CleanmgrPlus/blob/master/scripts/scripts.md)
+#### [Community scripts](https://github.com/mirinsoft/CleanmgrPlus/blob/master/scripts/scripts.md)
 
 #### German Data set
 https://www.mirinsoft.com/download/category/12-cleanmgr-localizations-data-sets

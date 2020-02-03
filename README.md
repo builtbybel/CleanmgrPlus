@@ -44,12 +44,10 @@ There are many Disk Cleaner utilities out there, but the goal with this one was 
 #### Cleanmgr+ is closed source, but you can collaborate and contribute i.e., custom script files, localizations, report issues or maintain a documentation.
 
 ## Download 
+* https://www.mirinsoft.com/cleanmgrplus
 
-#### Cleanmgr+
-https://www.mirinsoft.com/cleanmgrplus
-
-#### Community Scripts
-https://www.mirinsoft.com/cleanmgrplus-sc
+## Other Resources
+#### [Scripts](https://github.com/mirinsoft/CleanmgrPlus/blob/master/scripts/scripts.md)
 
 #### German Data set
 https://www.mirinsoft.com/download/category/12-cleanmgr-localizations-data-sets

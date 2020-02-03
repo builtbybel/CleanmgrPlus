@@ -49,8 +49,7 @@ There are many Disk Cleaner utilities out there, but the goal with this one was 
 ## Other Resources
 #### [Community scripts](https://github.com/mirinsoft/CleanmgrPlus/blob/master/scripts/scripts.md)
 
-#### German Data set
-https://www.mirinsoft.com/download/category/12-cleanmgr-localizations-data-sets
+#### [Localizations](https://github.com/mirinsoft/CleanmgrPlus/blob/master/locales/locale.md)
 
 ## Suggesting features / providing feedback
 Please use the [official community](https://www.mirinsoft.com/community) or the [discussion thread on Wilder's Security Forums](https://www.wilderssecurity.com/threads/cleanmgr-improved-replacement-for-microsoft-disk-cleanup.416181/)

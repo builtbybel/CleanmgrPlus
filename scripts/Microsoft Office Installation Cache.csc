@@ -9,19 +9,3 @@ Warning=You may safely delete MSOCache folder with no regrets in case you have i
 File1=Detect|%SystemDrive%\MSOCache
 File2=Calc|%SystemDrive%\MSOCache
 Task1=Exec|RD /S /Q %SystemDrive%\MSOCache
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

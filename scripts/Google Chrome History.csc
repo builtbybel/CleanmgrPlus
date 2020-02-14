@@ -13,10 +13,3 @@ File4=DeleteFile|%LocalAppData%\Google\Chrome\User Data\Default\Cookies
 File5=DeleteFile|%LocalAppData%\Google\Chrome\User Data\Default\Web Data 
 File6=DeleteFile|%LocalAppData%\Google\Chrome\User Data\Default\Current Session 
 File7=DeleteFile|%LocalAppData%\Google\Chrome\User Data\Default\Last Session 
-
-
-
-
-
-
-

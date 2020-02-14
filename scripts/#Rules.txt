@@ -71,10 +71,5 @@ Echo:
 		Optional you can use the Echo command to run a Preview in Windows command prompt
 ----------------------------------------------------------------------------------------------------------
 
-Additional Scripts can be found here 
-https://www.getclone.app/cleanmgrplus-sc
-
 
 https://www.mirinsoft.com
-https://getclone.app
-

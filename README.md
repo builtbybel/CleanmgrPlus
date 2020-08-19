@@ -1,21 +1,18 @@
 <h1 align="center"> Cleanmgr+ </h1>
 
 <p align="center">
-<a href="https://github.com/Mirinsoft/CleanmgrPlus" target="_blank">
-<img align="center" alt="Cleanmgr+" src="https://github.com/Mirinsoft/CleanmgrPlus/raw/master/cleanmgr%2B.png" width="150" height="150" />
+<a href="https://github.com/builtbybel/CleanmgrPlus" target="_blank">
+<img align="center" alt="Cleanmgr+" src="https://github.com/builtbybel/CleanmgrPlus/raw/master/cleanmgr%2B.png" width="150" height="150" />
 </a>
 </p>
 
 <p align="center">
  
-<a href="https://github.com/Mirinsoft/CleanmgrPlus/releases/latest" target="_blank">
- <img alt="Latest GitHub release" src="https://img.shields.io/github/release/mirinsoft/cleanmgrplus.svg" />
+<a href="https://github.com/builtbybel/CleanmgrPlus/releases/latest" target="_blank">
+ <img alt="Latest GitHub release" src="https://img.shields.io/github/release/builtbybel/cleanmgrplus.svg" />
 </a>
-<a href="https://github.com/Mirinsoft/CleanmgrPlus/releases" target="_blank">
- <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/Mirinsoft/CleanmgrPlus/total.svg?style=flat-square" />
-</a>
-<a href="https://www.mirinsoft.com/donate/cleanmgrplus" target="_blank">
- <img alt="Donate" src="https://img.shields.io/badge/donate-PayPal-orange.svg?style=flat-square" />
+<a href="https://github.com/builtbybel/CleanmgrPlus/releases" target="_blank">
+ <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/builtbybel/CleanmgrPlus/total.svg?style=flat-square" />
 </a>
 <a href="https://twitter.com/cleanmgrplus" target="_blank">
  <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/cleanmgrplus.svg?label=Follow" />
@@ -35,31 +32,29 @@ The downside of Storage Sense is the massive UI. This size is why I decided to m
 
 Cleanmgr+ comes with better and modern UI when compared to the current Disk Cleanup and with an additional feature set (hence the +), such as the feeding with Custom scripts, i.e., to clean a Browser cache, etc.
 
-<a href="https://www.mirinsoft.com/images/jdownloads/screenshots/cleanmgr+_screen.png"><img src="https://www.mirinsoft.com/images/jdownloads/screenshots/cleanmgr+_screen.png" align="right" style="max-width: 350px"></a>
+<a href="https://www.builtbybel.com/images/jdownloads/screenshots/cleanmgr+_screen.png"><img src="https://www.builtbybel.com/images/jdownloads/screenshots/cleanmgr+_screen.png" align="right" style="max-width: 350px"></a>
 
 There are many Disk Cleaner utilities out there, but the goal with this one was to create a tool that uses Windows own resources ensuring that only system-compliant actions are performed.
 
-#### More Information about Cleanmgr+ can be found on the [official website](https://www.mirinsoft.com/ms-apps/cleanmgrplus)
+#### More Information about Cleanmgr+ can be found on the [official website](https://www.builtbybel.com/ms-apps/cleanmgrplus)
 
 #### Cleanmgr+ is closed source, but you can collaborate and contribute i.e., custom script files, localizations, report issues or maintain a documentation.
 
 ## Download 
-* https://www.mirinsoft.com/cleanmgrplus
+* https://www.builtbybel.com/cleanmgrplus
 
 ## Other Resources
-#### [Community scripts](https://github.com/mirinsoft/CleanmgrPlus/blob/master/scripts/scripts.md)
+#### [Community scripts](https://github.com/builtbybel/CleanmgrPlus/blob/master/scripts/scripts.md)
 
-#### [Localizations](https://github.com/mirinsoft/CleanmgrPlus/blob/master/locales/locale.md)
+#### [Localizations](https://github.com/builtbybel/CleanmgrPlus/blob/master/locales/locale.md)
 
-#### [Themes](https://github.com/mirinsoft/CleanmgrPlus/blob/master/bin/packages/ui.ini)
+#### [Themes](https://github.com/builtbybel/CleanmgrPlus/blob/master/bin/packages/ui.ini)
 
 ## Suggesting features / providing feedback
-Please use the [official community](https://www.mirinsoft.com/community) or the [discussion thread on Wilder's Security Forums](https://www.wilderssecurity.com/threads/cleanmgr-improved-replacement-for-microsoft-disk-cleanup.416181/)
-
-You can also reach out to me on [Twitter](https://twitter.com/CleanmgrPlus)
+You can also reach out to me on [Twitter](https://twitter.com/builtbybel)
 
 <br>
 
-Built with ❤︎ by © [Mirinsoft](https://www.mirinsoft.com "Good apps are as little apps as possible").
+with ❤︎ © [builtbybel](https://www.builtbybel.com "Good apps are as little apps as possible").
 
 <p align="center"><a href="http://www.imirin.com/donate"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a></p>

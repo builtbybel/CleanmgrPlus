@@ -53,7 +53,5 @@ There are many Disk Cleaner utilities out there, but the goal with this one was 
 ## Suggesting features / providing feedback
 You can also reach out to me on [Twitter](https://twitter.com/builtbybel)
 
-<br>
-
 with ❤︎ © [builtbybel](https://www.builtbybel.com "Good apps are as little apps as possible").
 </p>

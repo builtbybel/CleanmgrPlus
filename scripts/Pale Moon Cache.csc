@@ -2,8 +2,8 @@
 Title=Pale Moon Cache
 BrowserID=Moonchild Productions\Pale Moon
 Description=Clean-up Pale Moon Cache
-Author=Mirinsoft
-AuthorURL=http://www.mirinsoft.com
+Author=Builtbybel
+AuthorURL=http://www.builtbybel.com
 
 [Files]
 Task=TaskKill|Palemoon.exe|WARNING

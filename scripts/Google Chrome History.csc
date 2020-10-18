@@ -1,8 +1,8 @@
 [Info]
 Title=Google Chrome History
 Description=Clean-up Google Chrome History
-Author=Mirinsoft
-AuthorURL=http://www.mirinsoft.com
+Author=Builtbybel
+AuthorURL=http://www.builtbybel.com
 
 [Files]
 Task=TaskKill|chrome.exe|WARNING

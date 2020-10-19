@@ -6,5 +6,4 @@ AuthorURL=http://www.builtbybel.com
 Warning=This will remove all Shadow Copies from all volumes.
 
 [Files]
-Task1=Echo|%WinDir%\SysNative\vssadmin list shadows
-Task2=Exec|%WinDir%\SysNative\vssadmin delete shadows /all|SHOWCLI
+Task1=Exec|%WinDir%\SysNative\vssadmin delete shadows /all

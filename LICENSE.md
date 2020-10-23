@@ -1,4 +1,5 @@
 End User License Agreement
+
 In this License, "the software" means the software product "Cleanmgr+".
 
 

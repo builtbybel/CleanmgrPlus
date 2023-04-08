@@ -41,7 +41,7 @@ There are many Disk Cleaner utilities out there, but the goal with this one was 
 #### Cleanmgr+ is closed source, but you can collaborate and contribute i.e., custom script files, localizations, report issues or maintain a documentation.
 
 ## Download 
-* https://www.builtbybel.com/cleanmgrplus
+* https://github.com/builtbybel/CleanmgrPlus/releases
 
 ## Other Resources
 #### [Community scripts](https://github.com/builtbybel/CleanmgrPlus/blob/master/scripts/scripts.md)
